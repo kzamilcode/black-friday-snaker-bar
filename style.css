@@ -303,3 +303,11 @@ body {
     width: 175px;
   }
 }
+@media screen and (max-width: 320px) {
+  .heading-text {
+    gap: 0px;
+  }
+  .heading-text-one h1 {
+    width: 140px;
+  }
+}
